@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @maiamelisa
+- 👀 I’m interested in web developing
+- 🌱 I’m currently learning web development
